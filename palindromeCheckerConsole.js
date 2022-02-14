@@ -24,9 +24,9 @@ function palindrome(string){
     }
   if (string === reverseString && string.indexOf(' ') < 0) 
   /*condition after AND searches for absence of 'space' between words which would invalidate the condition in the question: we want a word, not words */ {
-    console.log('This is a palindrome.');
+    console.log('True. This is a palindrome.');
   } else {
-    console.log('This is not a palindrome.');
+    console.log('False. This is not a palindrome.');
   }
 }
 // testing; please read the assumptions
