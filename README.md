@@ -16,4 +16,5 @@ Assumptions:
 
 Result of testing after running the code:
 
-![Palindrome Console jsfiddle net](https://user-images.githubusercontent.com/88635610/153773569-6fd1658a-623b-459f-aee3-2d526c670a32.png)
+![Palindrome Console jsfiddle net](https://user-images.githubusercontent.com/88635610/153877617-0ac1ec21-e96f-437f-9a12-c4da97834c89.png)
+
